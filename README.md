@@ -12,5 +12,4 @@
 
 - [Building an ASR system for Mboshi using a cross-language definition of acoustic units approach 2018](http://odettescharenborg.ruhosting.nl/wp-content/uploads/2015/02/mboshi_revised.pdf)
 
-  **Cross-language definition of acoustic units **
-
+  **Cross-language definition of acoustic units**
