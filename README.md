@@ -22,7 +22,9 @@
 
 - [ ] [Building an ASR system for a low-research language through the adaptation of a high-resource language ASR system: Preliminary results](https://www.semanticscholar.org/paper/Building-an-ASR-System-for-a-Low-research-Language-Scharenborg-Ciannella/d04806f26584b923105c731e2e6f63b433dd96ea)
 
+## Papers related to dataset
 
+- [ ] [A very low resouce language speech corpus for computational language documentation experiments](https://arxiv.org/pdf/1710.03501.pdf)
 
 ### Zero resource speech challenge
 
