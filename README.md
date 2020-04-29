@@ -1,12 +1,20 @@
 # Paper List
 
-## DNN
+[TOC]
+
+## 语音识别 (ASR)
+
+ ### CTC
+
+- [ ] [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](<https://www.cs.toronto.edu/~graves/icml_2006.pdf>)
+
+### DNN
 
 - [ ] [Representation learning: A review and new perspectives](<https://arxiv.org/abs/1206.5538>)
 
   **Feature Representation Learning** 
 
-## Introduction of Zero/Low Resource Automatic Speech Recognition
+### Zero/Low Resource Automatic Speech Recognition
 
 - [**Notes for those papers**](https://hackmd.io/Gt5qkoVeTj-39Xn-bwYK5w?edit) 
 
@@ -26,9 +34,7 @@
 
 - [ ] https://arxiv.org/pdf/1710.03501.pdf)
 
-
-
-## Zero resource speech challenge
+#### Zero resource speech challenge
 
 #### [Zero Speech 2015](https://zerospeech.com/2015/track_1.html#track1-2015)
 
@@ -46,16 +52,14 @@
 
   **BDF;DPGMM**
 
-## Specific Methodology 
+#### Specific Methodology of zero resouce scenario 
 
-### DPGMM
+##### DPGMM
 
 - [ ] [Parallel inference of Dirichlet process gaussian mixture models for unsupervised acousitic modeling: a feasibility study 2015](https://www.semanticscholar.org/paper/Parallel-inference-of-dirichlet-process-Gaussian-a-Chen-Leung/6d2da2de9b8ffd78d2033f3f112015d261424470)
 - [ ] [Mutilingual bottle-neck feature learning from untranscribe speech](https://ieeexplore.ieee.org/document/8269009)
 
-
-
-## Papers related to dataset
+#### Papers related to dataset 
 
 - [ ] [A very low resouce language speech corpus for computational language documentation experiments](https://arxiv.org/abs/1710.03501)
 
