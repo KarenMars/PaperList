@@ -1,6 +1,6 @@
 # Paper List
 
-[TOC]
+The paper list is move to **notion**. You can check out papers I read/am reading via this [link](https://www.notion.so/karenmars/Reading-List-274c5edf3b404e38b5ec544d3f93817f)
 
 ## 语音识别 (ASR)
 
